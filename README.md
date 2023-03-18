@@ -12,6 +12,8 @@ utilizando dicionario, filtrei as informacoes de acordo com o que queria, para e
 para "postar" as imagens a biblioteca Pillow, OS para percorer a pasta do meu computador para salvar as imagens assim como para deleta-las
 ( como sempre teremos filmes atualizados, nao seria viajel deixar a pasta cheia de imagens que nao seriam mais utilizadas)
 
+scrollbar para barra de rolagem para visualizar todos os dados
+
 ![image](https://user-images.githubusercontent.com/110548620/226142992-ae2cb521-6109-44c1-b0ef-810139de0174.png)
 
 

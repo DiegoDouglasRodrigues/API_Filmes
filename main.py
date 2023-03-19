@@ -7,13 +7,12 @@ from tkinter import Tk, ttk
 from tkinter import messagebox
 
 import urllib.request
-import os
 from PIL import Image
 from PIL import ImageTk, Image
 import os
 import glob
 
-
+#Definindo as cores
 cor0 = '#000000' #preto
 cor1 = '#ffffff' #branco
 cor2 = '#071169' #azul framde de cima

@@ -12,7 +12,7 @@ from PIL import ImageTk, Image
 import os
 import glob
 
-#Definindo as cores
+#Definindo as cores do sistema
 cor0 = '#000000' #preto
 cor1 = '#ffffff' #branco
 cor2 = '#071169' #azul framde de cima

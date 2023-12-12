@@ -12,6 +12,8 @@ from PIL import ImageTk, Image
 import os
 import glob
 
+from tqdm import tqdm
+
 #Definindo as cores do sistema
 cor0 = '#000000' #preto
 cor1 = '#ffffff' #branco
@@ -99,6 +101,7 @@ def limpar_imagens_filmes():
     os.remove(f)
 
 
+
 def download_imagens():
 
   api_key = '3adbb5856e462f0378b57334a2d07412'
@@ -127,8 +130,11 @@ def download_imagens():
     link_capa = (link_imagem + str(dicio['foto_01']))
     #print(link_capa)
 
-    dicio['foto_01'] = dicio['foto_01'][1:]
-    #print(dicio)
+    try:
+      dicio['foto_01'] = dicio['foto_01'][1:]
+      #print(dicio)
+    except:
+      break
 
 
 

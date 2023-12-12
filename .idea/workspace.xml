@@ -4,11 +4,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="240f2150-74a0-4777-99e5-72fdd99c7d58" name="Changes" comment="" />
+    <list default="true" id="240f2150-74a0-4777-99e5-72fdd99c7d58" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/teste.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/22z44LPkMyf5nyyXvv8qQLsbom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/2E6pIbJien7B9yWpaz8Yd2njzUI.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/2Eewgp7o5AU1xCataDmiIL2nYxd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/32GH8Mi4GmTPIQyd6IW1FFrHWrj.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/5i6SjyDbDWqyun8klUuCxrlFbyw.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/9Rq14Eyrf7Tu1xk0Pl7VcNbNh1n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/AsEgGeccI32SwMBkxpwhOkhbzmF.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/ae4xZiU7IeFVrvXxm2GjdcTrBm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/bvAMLx00BOr6vkSQWZscwGrPdGI.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/dlrWhn0G3AtxYUx2D9P2bmzcsvF.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/gslT8t964rYXyqRcqrxFh77ikyb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/jr8tSoJGj33XLgFBy6lmZhpGQNu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/nDg8feBTHh52YCAuXpFWynznqAh.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/ovM06PdF3M8wvKb06i4sjW3xoww.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/pxJbfnMIQQxCrdeLD0zQnWr6ouL.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/ql4PnvKYKaMtdx9Ck4fHY2wJphT.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/r7Dfg9aRZ78gJsmDlCirIIlNH3d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/tt79dbOPd9Z9ykEOpvckttgYXwH.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/wybmSmviUXxlBmX44gtpow5Y9TB.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/xDMIl84Qo5Tsu62c9DGWhmPI67A.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -29,7 +60,28 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.aa">
+    <configuration name="aa" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="API_Filmes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="API_Filmes" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -51,9 +103,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="teste" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="API_Filmes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teste.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.aa" />
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.teste" />
       </list>
     </recent_temporary>
   </component>
